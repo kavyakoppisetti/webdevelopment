@@ -1,0 +1,274 @@
+
+
+
+          .background-image{
+            background-image: url(building.png);
+            height: 60vh;
+            width: 60vw;
+            background-position: center;
+          }
+
+          .a{
+
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            width: 61.4%;
+            height: 250px;
+            margin: 0;
+            background-color: #004d00;
+            
+           }
+
+
+           .image-container img{
+
+          width: 27.55%;
+          height: 200px;
+          padding: 23px;
+          
+           }
+
+
+          .k{
+
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            width: 61.4%;
+            height: 400px;
+            background-color: #003300;
+            
+          }
+
+          .b{
+
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+
+          }
+
+
+          .b img{
+
+            width: 50%;
+            height: 400px;
+
+          }
+
+          .b .text{
+
+            width: 50%;
+            text-decoration-color: white;
+
+          }
+
+          .c{
+
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            width: 58.62%;
+            height: 500px;
+            background-color: #b37700;
+            padding: 20px;
+
+          }
+
+          .e{
+
+
+            justify-content: center;
+            align-items: center;
+            width: 75%;
+            padding-top: 10px;
+            height: 440px;
+            background-color: whitesmoke;
+            padding: 30px;
+
+          }
+
+          .container{
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            
+          }
+
+          .top-right{
+
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+            float: right;
+            margin: 0;
+            padding: 0;
+
+          }
+
+          .top-right img{
+
+            width: 45%;
+            height: 225px;
+            align-items: right;
+
+
+          }
+
+          .bottom-images{
+
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+            float: right;
+            margin: 0%;
+            padding: 0;
+
+
+          }
+
+         .bottom-images img{
+
+          width: 48%;
+          height: 225px;
+          float: right;
+          align-items: right;
+
+
+         }
+
+         .align-right{
+
+          width: 45%;
+          height: 225px;
+         }
+          .f{
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 61.22%;
+            height: 250px;
+            background-color: #003300;
+            
+          }
+
+          .g{
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 61.22%;
+            height: 250px;
+            background-color: lavender;
+          }
+
+          .h{
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 61.22%;
+            height: 400px;
+            background-color: white;
+
+          }
+
+          .l{
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+          }
+  
+          .l .text{
+
+            width: 50%;
+            text-decoration-color: black;
+
+          }
+
+          .l img{
+
+            width: 50%;
+            min-height: 300px;
+            padding: 20px;
+
+          }
+
+          .m img{
+
+          width: 61.22%;
+          height: 350px;
+
+          }
+
+        .q{
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 61.12%;
+          height: 480px;
+          background-color: white;
+
+        }
+
+          .n{
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 80%;
+            height: 400px;
+            background-color: #003300;
+
+          }
+
+          .p{
+
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+
+          }
+
+          .p img{
+
+            width: 50%;
+            height: 400px;
+            float: left;
+
+          }
+
+          .p .text{
+
+            width: 50%;
+            text-decoration: green;
+
+          }
+
+          .r{
+            
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 61.24%;
+            height: 200px;
+            background-color: lavender;
+      
+          }
+
+          .s{
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 61.22%;
+            height: 200px;
+            background-color: #003300;
+
+          }
